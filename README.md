@@ -1,2 +1,2 @@
-# CharAznable
-Discord Bot Maked In DiscordJS &amp; Klasaa
+# Taki Tachibana
+Discord Bot Maked In TypeScrpt
